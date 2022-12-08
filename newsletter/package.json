@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "formik": "^2.2.9",
+    "react-hot-toast": "^2.4.0",
+    "react-router-dom": "^6.3.0",
+    "source-map": "^0.7.4"
+  }
+}
